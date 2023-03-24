@@ -15,7 +15,8 @@ Tornado Cash是一个基于zkSNARKs的非托管Ethereum和ERC20隐私解决方�
 -   Serverless
 
 [![image](https://github.com/Guyungy/tornado-core/raw/master/docs/diagram.png)](https://github.com/Guyungy/tornado-core/blob/master/docs/diagram.png)
-它通过审核了吗？
+
+## 它通过审核了吗？
 
 Tornado.cash协议、电路和智能合约由专门从事零知识、密码学和智能合约的[ABDK Consulting](https://www.abdk.consulting/)的一组专家进行了审计。
 
